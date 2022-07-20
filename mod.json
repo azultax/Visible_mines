@@ -1,0 +1,9 @@
+{
+    "name": "visible mines    ",
+    "displayName": "visible mines    ",
+    "author": "omnidroid",
+    "description": "A simple mod for pvp that highlights mines",
+    "version": "1",
+    "minGameVersion": "120",
+    "hidden": true
+}
